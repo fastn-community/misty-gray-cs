@@ -238,7 +238,7 @@ text-disabled: $cta-danger-text-disabled-
 border-disabled: $cta-danger-border-disabled- 
  
 -- ftd.color accent-primary-:  
-light: #4ed42d 
+light: #24b07e
 dark: #24b07e 
  
 -- ftd.color accent-secondary-:  

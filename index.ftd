@@ -316,7 +316,7 @@ Copy below code snippet inside your `ftd` file, then deploy and test
 -- cb.code: 
 lang: ftd
 
-\-- example: This is example of types used from `misty-gray-cs`
+\-- example: This is example of colors used from `misty-gray-cs`
 
 \-- component example:
 caption title:

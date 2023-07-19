@@ -22,8 +22,8 @@ logo: $assets.files.static.fastn-logo.svg
 subtitle: misty-gray-cs: color scheme
 colors: $colors-data
 types: $typo.types
-document-title: Misty Gray CS: fastn color scheme package
-document-description: Misty Gray CS: fastn color scheme package
+document-title: Charcoal Green-themed Colour Scheme for Web Design | fastn Misty Gray CS
+document-description: Discover the Misty Gray Colour Scheme by fastn, featuring beautiful shades of charcoal green for both dark and light modes.
 document-image: https://fastn.com/-/fastn.com/images/featured/cs/misty-gray-cs-dark.png
 
 -- cp.components-pallete:

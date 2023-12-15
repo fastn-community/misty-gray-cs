@@ -200,6 +200,7 @@ warmth, and growth.
 
 -- cb.code: Figma tokens json
 lang: json
+download: misty-gray-cs.json
 max-height.fixed.px: 300
 
 $figma-json
